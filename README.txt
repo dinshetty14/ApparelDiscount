@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Summary
 ---------------------------------------------------------------------------------------------------
-ApparelDiscount program does the following.
-* Loads the all types of discounts stored in the following file into memory.
+ApparelDiscount program does the following:
+* Loads all types of discounts stored in the following file into memory.
 	ApparelDiscount.txt
 	BrandDiscount.txt
 	GenderDiscount.txt
