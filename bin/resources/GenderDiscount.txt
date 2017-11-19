@@ -1,0 +1,3 @@
+Gender, Discount
+Men, 0
+Women, 50

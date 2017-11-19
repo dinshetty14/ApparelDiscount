@@ -1,0 +1,7 @@
+Apparel, Discount, Gender
+Shirts, 0, Men
+Trousers, 0, Men 
+Casuals, 30, Men
+Jeans, 20, Men
+Dresses, 0, Women
+Footwear, 0, Women
